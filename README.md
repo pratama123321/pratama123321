@@ -1,3 +1,3 @@
-hi, my name is @pratama123321
-I'm interested in back-end programming dev
-I'm learning JAVA
+hi, my name is pratama
+i am interested in data science, AI, Machine Learning, and also back end developer
+I am learning with JAVA programming language
